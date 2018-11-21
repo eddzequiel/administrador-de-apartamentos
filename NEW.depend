@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1471884986 source:c:\users\kaz\desktop\new\new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+
+1471883739 c:\users\kaz\desktop\new\new\datos.h
+
+1471901199 source:c:\users\nothere\desktop\new\new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+
+1471890424 c:\users\nothere\desktop\new\new\datos.h
+
+1471984535 source:c:\users\kaz\desktop\ggggg\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	<time.h>
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<conio.h>
+
+1471983667 c:\users\kaz\desktop\ggggg\datos.h
+
+1471984574 source:f:\ggggg\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	<time.h>
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<conio.h>
+
+1471983668 f:\ggggg\datos.h
+
+1471998549 source:c:\users\kaz\desktop\proyecto nuevo\ggggg - copia\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	<time.h>
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<conio.h>
+
+1471995762 c:\users\kaz\desktop\proyecto nuevo\ggggg - copia\datos.h
+
+1472006198 source:f:\ggggg - copia\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	<time.h>
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<conio.h>
+
+1471995764 f:\ggggg - copia\datos.h
+
+1472006198 source:g:\ggggg - copia\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	<time.h>
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<conio.h>
+
+1471995764 g:\ggggg - copia\datos.h
+
+1472011907 source:c:\users\kaz\desktop\definitivo de todo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	<time.h>
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<sstream>
+
+1472011851 c:\users\kaz\desktop\definitivo de todo\datos.h
+
+1472013062 source:c:\users\nothere\desktop\definitivo de todo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	<time.h>
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<sstream>
+
+1472011851 c:\users\nothere\desktop\definitivo de todo\datos.h
+
+1472026677 source:c:\users\kaz\downloads\definitivo-de-todo\definitivo de todo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	<time.h>
+	<iostream>
+	<vector>
+	<conio.h>
+	<windows.h>
+	<sstream>
+
+1472026949 c:\users\kaz\downloads\definitivo-de-todo\definitivo de todo\datos.h
+

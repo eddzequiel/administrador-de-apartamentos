@@ -1,0 +1,15 @@
+int opc=0;
+struct inquilinos
+{
+    bool pago[12]; //Bool para los pagos del año.
+    char nombre[50]; //Para guardar el nombre
+    char cedula[50]; //Para guar
+    char ocupacion[50];
+    char telefono[10];
+    char sexo[10];
+    int edad;
+    int estado;
+}reg[7];
+
+struct tm_tm;
+
